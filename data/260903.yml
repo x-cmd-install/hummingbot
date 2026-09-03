@@ -1,19 +1,21 @@
 about:
-  description: Open source software that helps you create and deploy high-frequency crypto trading bots
+  description:
+  |
+    Open source software that helps you create and deploy high-frequency crypto trading bots
   license: Apache-2.0
   homepage: https://hummingbot.org
   head: 2bfaccc
   archived: false
   latestVersion: v2.16.0
-  collectedAt: 2026-09-03T05:09:45Z
+  collectedAt: 2026-09-03T22:38:35Z
 timeline:
   created: 2019-04-02
   lastCommit: 2026-07-30
   lastRelease: 2026-07-29
 popularity:
-  star: 19765
+  star: 19779
   watcher: 200
-  fork: 4879
+  fork: 4880
   release: 110
   contributor: 237
   pullRequest: 1260
@@ -26,7 +28,7 @@ language:
   Makefile: 3486
   Dockerfile: 2887
   Batchfile: 52
-totalLine: 16724793
+totalBytes: 16724793
 recent:
   last30d:
     since: 2026-08-04
