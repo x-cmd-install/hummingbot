@@ -7,13 +7,13 @@ about:
   head: 2bfaccc
   archived: false
   latestVersion: v2.16.0
-  collectedAt: 2026-09-04T20:10:22Z
+  collectedAt: 2026-09-04T20:32:37Z
 timeline:
   created: 2019-04-02
   lastCommit: 2026-07-30
   lastRelease: 2026-07-29
 popularity:
-  star: 19801
+  star: 19802
   watcher: 200
   fork: 4886
   release: 110
@@ -87,7 +87,7 @@ total:
   commit: 27932
 ---
 path: /home/runner/.x-repo/github.com/hummingbot/hummingbot
-collectedAt: 2026-09-04T20:10:34Z
+collectedAt: 2026-09-04T20:32:53Z
 loc:
   Python:
     code: 312620
