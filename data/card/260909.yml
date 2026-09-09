@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.16.0"
   latestRelease: "v2.16.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:12:50Z
+  collectedAt: 2026-09-09T19:30:43Z
 timeline:
   created: 2019-04-02
   lastCommit: 2026-07-30
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-07-29
   lastPrerelease: 
 popularity:
-  star: 19924
+  star: 19939
   watcher: 201
   fork: 4913
   release: 110
@@ -89,7 +89,7 @@ total:
   commit: 27932
 ---
 path: /home/runner/.x-repo/github.com/hummingbot/hummingbot
-collectedAt: 2026-09-09T05:13:10Z
+collectedAt: 2026-09-09T19:31:23Z
 loc:
   Python:
     code: 312620
