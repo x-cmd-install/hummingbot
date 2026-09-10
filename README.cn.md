@@ -1,0 +1,64 @@
+# hummingbot
+
+[English version](./README.md)
+
+Open source software that helps you create and deploy high-frequency crypto trading bots
+
+![hummingbot](https://repo.x-cmd.io/hummingbot.svg)
+
+## 安装
+
+```sh
+x install hummingbot
+```
+
+## 源代码
+
+- **上游仓库**: <https://github.com/hummingbot/hummingbot>
+- **官网**: <https://hummingbot.org>
+- **许可证**: Apache-2.0
+
+## 发布
+
+- **最新版本**: `v2.16.0` (2026-07-29)
+- **最近提交**: 2026-07-30
+- **发布时间**: 2026-07-29T21:19:00Z
+
+## 流行度
+
+- **Star**: 19,948 · **Fork**: 4,913 · **开放 issue**: 3,487 · **贡献者**: 235
+
+## 累计统计
+
+- **发布数**: 110 · **已合并 PR**: 3592 · **开放 PR**: 88 · **已关闭 issue**: 3417 · **开放 issue**: 70 · **提交数**: 27932
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 6 | 17 | 0 | 2 | 0 |
+| 90d | 2026-06-12 | 2 | 40 | 49 | 13 | 13 | 456 |
+| 360d | 2025-09-15 | 8 | 175 | 86 | 99 | 41 | 2105 |
+
+## 代码规模
+
+合计: **322,340** 行代码（覆盖前 5 种语言、共 **1775** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Python | 312,620 | 11,620 | 53,819 | 1624 |
+| Cython | 8,302 | 305 | 1,572 | 125 |
+| Yaml | 555 | 228 | 126 | 14 |
+| Cpp | 369 | 8 | 59 | 6 |
+| Bash | 182 | 59 | 41 | 6 |
+
+## 改进这些数据
+
+hummingbot 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `hummingbot` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
+
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/hummingbot.yml>（或索引实际使用的路径）
+
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
+
+_数据快照: `data/card/260910.yml` · 2026-09-10T05:11:15Z._
