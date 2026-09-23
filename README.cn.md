@@ -4,7 +4,7 @@
 
 Open source software that helps you create and deploy high-frequency crypto trading bots
 
-[![x-cmd/install — hummingbot Code Quality Monitoring Repo Card](https://repo.x-cmd.io/hummingbot.svg?lang=zh)](https://x-cmd.com/install/hummingbot)
+[![x-cmd/install — hummingbot Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/hummingbot.svg?lang=zh)](https://x-cmd.com/install/hummingbot)
 
 ## 安装
 
@@ -14,12 +14,12 @@ x install hummingbot
 
 ## 代码洞察
 
-合计: **322,340** 行代码（覆盖前 5 种语言、共 **1775** 个文件）。
+合计: **328,108** 行代码（覆盖前 5 种语言、共 **1807** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 312,620 | 11,620 | 53,819 | 1624 |
-| Cython | 8,302 | 305 | 1,572 | 125 |
+| Python | 318,384 | 12,107 | 54,884 | 1654 |
+| Cython | 8,306 | 305 | 1,572 | 127 |
 | Yaml | 555 | 228 | 126 | 14 |
 | Cpp | 369 | 8 | 59 | 6 |
 | Bash | 182 | 59 | 41 | 6 |
@@ -32,27 +32,27 @@ x install hummingbot
 
 ## 发布
 
-- **最新版本**: `v2.16.0` (2026-07-29)
-- **最近提交**: 2026-07-30
+- **最新版本**: `v2.17.0` (2026-09-22)
+- **最近提交**: 2026-09-22
 
 ## 流行度
 
-- **Star**: 20,132 · **Fork**: 4,949 · **开放 issue**: 3,492 · **贡献者**: 235
+- **Star**: 20,164 · **Fork**: 4,953 · **开放 issue**: 3,492 · **贡献者**: 235
 
 ## 累计统计
 
-- **发布数**: 110 · **已合并 PR**: 3596 · **开放 PR**: 98 · **已关闭 issue**: 3418 · **开放 issue**: 74 · **提交数**: 27932
+- **发布数**: 111 · **已合并 PR**: 3597 · **开放 PR**: 100 · **已关闭 issue**: 3419 · **开放 issue**: 73 · **提交数**: 28074
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 8 | 23 | 1 | 5 | 0 |
-| last60d | 2026-07-24 | 1 | 18 | 36 | 3 | 9 | 12 |
-| 90d | 2026-06-24 | 1 | 34 | 52 | 9 | 14 | 275 |
-| last180d | 2026-03-26 | 3 | 88 | 82 | 44 | 22 | 952 |
-| 360d | 2025-09-27 | 7 | 165 | 96 | 97 | 42 | 2066 |
-| last720d | 2024-10-02 | 17 | 359 | 98 | 311 | 72 | 3972 |
+| 30d | 2026-08-24 | 1 | 9 | 24 | 1 | 5 | 50 |
+| last60d | 2026-07-25 | 2 | 19 | 38 | 3 | 9 | 207 |
+| 90d | 2026-06-25 | 2 | 35 | 54 | 9 | 14 | 474 |
+| last180d | 2026-03-27 | 4 | 89 | 84 | 44 | 22 | 1157 |
+| 360d | 2025-09-28 | 8 | 166 | 98 | 98 | 41 | 2271 |
+| last720d | 2024-10-03 | 18 | 360 | 100 | 312 | 71 | 4111 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ hummingbot 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:29:46Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:26:27Z._

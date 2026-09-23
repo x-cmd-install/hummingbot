@@ -4,7 +4,7 @@
 
 Open source software that helps you create and deploy high-frequency crypto trading bots
 
-[![x-cmd/install — hummingbot Code Quality Monitoring Repo Card](https://repo.x-cmd.io/hummingbot.svg)](https://x-cmd.com/install/hummingbot)
+[![x-cmd/install — hummingbot Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/hummingbot.svg)](https://x-cmd.com/install/hummingbot)
 
 ## Install
 
@@ -14,12 +14,12 @@ x install hummingbot
 
 ## Code insight
 
-Total: **322,340** lines of code across **1775** files in the top 5 languages.
+Total: **328,108** lines of code across **1807** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 312,620 | 11,620 | 53,819 | 1624 |
-| Cython | 8,302 | 305 | 1,572 | 125 |
+| Python | 318,384 | 12,107 | 54,884 | 1654 |
+| Cython | 8,306 | 305 | 1,572 | 127 |
 | Yaml | 555 | 228 | 126 | 14 |
 | Cpp | 369 | 8 | 59 | 6 |
 | Bash | 182 | 59 | 41 | 6 |
@@ -32,27 +32,27 @@ Total: **322,340** lines of code across **1775** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.16.0` (2026-07-29)
-- **Last commit**: 2026-07-30
+- **Latest**: `v2.17.0` (2026-09-22)
+- **Last commit**: 2026-09-22
 
 ## Popularity
 
-- **Stars**: 20,132 · **Forks**: 4,949 · **Open issues**: 3,492 · **Contributors**: 235
+- **Stars**: 20,164 · **Forks**: 4,953 · **Open issues**: 3,492 · **Contributors**: 235
 
 ## Totals (cumulative)
 
-- **Releases**: 110 · **Merged PRs**: 3596 · **Open PRs**: 98 · **Closed issues**: 3418 · **Open issues**: 74 · **Commits**: 27932
+- **Releases**: 111 · **Merged PRs**: 3597 · **Open PRs**: 100 · **Closed issues**: 3419 · **Open issues**: 73 · **Commits**: 28074
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 8 | 23 | 1 | 5 | 0 |
-| last60d | 2026-07-24 | 1 | 18 | 36 | 3 | 9 | 12 |
-| 90d | 2026-06-24 | 1 | 34 | 52 | 9 | 14 | 275 |
-| last180d | 2026-03-26 | 3 | 88 | 82 | 44 | 22 | 952 |
-| 360d | 2025-09-27 | 7 | 165 | 96 | 97 | 42 | 2066 |
-| last720d | 2024-10-02 | 17 | 359 | 98 | 311 | 72 | 3972 |
+| 30d | 2026-08-24 | 1 | 9 | 24 | 1 | 5 | 50 |
+| last60d | 2026-07-25 | 2 | 19 | 38 | 3 | 9 | 207 |
+| 90d | 2026-06-25 | 2 | 35 | 54 | 9 | 14 | 474 |
+| last180d | 2026-03-27 | 4 | 89 | 84 | 44 | 22 | 1157 |
+| 360d | 2025-09-28 | 8 | 166 | 98 | 98 | 41 | 2271 |
+| last720d | 2024-10-03 | 18 | 360 | 100 | 312 | 71 | 4111 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for hummingbot lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:29:46Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:26:27Z._
