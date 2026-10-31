@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.17.0"
   latestRelease: "v2.17.0"
   latestPrerelease: ""
-  collectedAt: 2026-10-30T06:11:51Z
+  collectedAt: 2026-10-31T06:09:18Z
 timeline:
   created: 2019-04-02
   lastCommit: 2026-09-22
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-09-22
   lastPrerelease: 
 popularity:
-  star: 20808
+  star: 20845
   watcher: 198
-  fork: 5071
+  fork: 5078
   release: 111
   contributor: 235
-  pullRequest: 4903
+  pullRequest: 4909
   issue: 3500
 language:
   Python: 16670204
@@ -33,63 +33,63 @@ language:
 totalBytes: 17149873
 recent:
   last30d:
-    since: 2026-09-30
+    since: 2026-10-01
     release: 0
     mergedPR: 1
-    openPR: 16
+    openPR: 22
     closedIssue: 1
     openIssue: 3
     commit: 0
   last60d:
-    since: 2026-08-31
+    since: 2026-09-01
     release: 1
-    mergedPR: 10
-    openPR: 40
+    mergedPR: 8
+    openPR: 46
     closedIssue: 5
     openIssue: 7
     commit: 39
   last90d:
-    since: 2026-08-01
+    since: 2026-08-02
     release: 1
     mergedPR: 19
-    openPR: 57
+    openPR: 63
     closedIssue: 7
     openIssue: 12
     commit: 161
   last180d:
-    since: 2026-05-03
+    since: 2026-05-04
     release: 3
     mergedPR: 73
-    openPR: 96
+    openPR: 102
     closedIssue: 35
     openIssue: 22
     commit: 897
   last360d:
-    since: 2025-11-04
+    since: 2025-11-05
     release: 7
     mergedPR: 159
-    openPR: 109
-    closedIssue: 92
-    openIssue: 40
+    openPR: 115
+    closedIssue: 91
+    openIssue: 39
     commit: 2136
   last720d:
-    since: 2024-11-09
+    since: 2024-11-10
     release: 17
     mergedPR: 345
-    openPR: 112
+    openPR: 118
     closedIssue: 304
     openIssue: 71
-    commit: 3947
+    commit: 3945
 total:
   release: 111
   mergedPR: 3603
-  openPR: 112
+  openPR: 118
   closedIssue: 3427
   openIssue: 73
   commit: 28074
 ---
 path: /home/runner/.x-repo/github.com/hummingbot/hummingbot
-collectedAt: 2026-10-30T06:12:11Z
+collectedAt: 2026-10-31T06:10:03Z
 loc:
   Python:
     code: 318384
