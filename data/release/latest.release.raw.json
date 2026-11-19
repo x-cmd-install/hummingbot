@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/hummingbot/hummingbot/releases/393578064",
-  "assets_url": "https://api.github.com/repos/hummingbot/hummingbot/releases/393578064/assets",
-  "upload_url": "https://uploads.github.com/repos/hummingbot/hummingbot/releases/393578064/assets{?name,label}",
-  "html_url": "https://github.com/hummingbot/hummingbot/releases/tag/v2.17.0",
-  "id": 393578064,
+  "url": "https://api.github.com/repos/hummingbot/hummingbot/releases/450038228",
+  "assets_url": "https://api.github.com/repos/hummingbot/hummingbot/releases/450038228/assets",
+  "upload_url": "https://uploads.github.com/repos/hummingbot/hummingbot/releases/450038228/assets{?name,label}",
+  "html_url": "https://github.com/hummingbot/hummingbot/releases/tag/v2.18.0",
+  "id": 450038228,
   "author": {
     "login": "rapcmia",
     "id": 73840223,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOCq3P9M4XdYZQ",
-  "tag_name": "v2.17.0",
+  "node_id": "RE_kwDOCq3P9M4a0wnU",
+  "tag_name": "v2.18.0",
   "target_commitish": "master",
-  "name": "v2.17.0",
+  "name": "v2.18.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-22T08:53:54Z",
-  "updated_at": "2026-09-22T08:55:11Z",
-  "published_at": "2026-09-22T08:55:11Z",
+  "created_at": "2026-11-18T13:29:45Z",
+  "updated_at": "2026-11-18T13:37:49Z",
+  "published_at": "2026-11-18T13:37:49Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/hummingbot/hummingbot/tarball/v2.17.0",
-  "zipball_url": "https://api.github.com/repos/hummingbot/hummingbot/zipball/v2.17.0",
-  "body": "## What's Changed\r\n* Update README exchange tables for v2.16.0 by @fengtality in https://github.com/hummingbot/hummingbot/pull/8402\r\n* Update README for master: exchange tables, Getting Started, Strategies by @fengtality in https://github.com/hummingbot/hummingbot/pull/8403\r\n* Feat/std executor config failures by @cardosofede in https://github.com/hummingbot/hummingbot/pull/8421\r\n* fix / Hyperliquid auth silently accepting wrong private keys (#7866) by @ipezygj in https://github.com/hummingbot/hummingbot/pull/8212\r\n* Fix Hyperliquid builder fee not resolving when connector is embedded by @fengtality in https://github.com/hummingbot/hummingbot/pull/8417\r\n* (derive) rename config keys to reflect session-key auth by @david-hummingbot in https://github.com/hummingbot/hummingbot/pull/8430\r\n* feat(gateway): adopt the unified route surface, and give executors a slippage ramp by @fengtality in https://github.com/hummingbot/hummingbot/pull/8431\r\n* feat(gateway): add token discovery client method by @mlguys in https://github.com/hummingbot/hummingbot/pull/8441\r\n* feat(gateway): trim the client's Gateway commands and fix their autocomplete by @fengtality in https://github.com/hummingbot/hummingbot/pull/8438\r\n* feat/lp-executor: add configurable position refresh interval by @mlguys in https://github.com/hummingbot/hummingbot/pull/8446\r\n* (perf) bound the controller's executor view in backtesting, and report closing-tick executors by @cardosofede in https://github.com/hummingbot/hummingbot/pull/8447\r\n* (feat) add kalshi_perpetual connector by @cardosofede in https://github.com/hummingbot/hummingbot/pull/8454\r\n* fix(xrpl): resolve token symbols for markets without a trading_pair_symbol by @david-hummingbot in https://github.com/hummingbot/hummingbot/pull/8448\r\n* (fix) emulate reduce_only for resting kalshi_perpetual close orders by @cardosofede in https://github.com/hummingbot/hummingbot/pull/8464\r\n* Sync / Development to Staging v2.17 by @rapcmia in https://github.com/hummingbot/hummingbot/pull/8459\r\n* Sync / Staging to master  v2.17 by @rapcmia in https://github.com/hummingbot/hummingbot/pull/8467\r\n\r\n\r\n**Full Changelog**: https://github.com/hummingbot/hummingbot/compare/v2.16.0...v2.17.0",
-  "mentions_count": 6
+  "tarball_url": "https://api.github.com/repos/hummingbot/hummingbot/tarball/v2.18.0",
+  "zipball_url": "https://api.github.com/repos/hummingbot/hummingbot/zipball/v2.18.0",
+  "body": "## What's Changed\r\n* fix / race condition in api throttler acquire() by @mnaamani in https://github.com/hummingbot/hummingbot/pull/8461\r\n* fix: release previous reference in PyRef assignment operator by @Janche in https://github.com/hummingbot/hummingbot/pull/8444\r\n* fix /Update Lighter SDK to 1.1.2 by @andrewgbell in https://github.com/hummingbot/hummingbot/pull/8435\r\n* fix/ preserve LP volume across POSITION_HOLD closure by @mlguys in https://github.com/hummingbot/hummingbot/pull/8496\r\n* fix / allow dydx v4 perpetual non-trading connector initialization without mnemonic (Fixes #7409) by @naufalfx805-source in https://github.com/hummingbot/hummingbot/pull/8477\r\n* feat / upgrade Derive spot & perpetual connectors to the v3 API by @isreallee82 in https://github.com/hummingbot/hummingbot/pull/8491\r\n* fix / price backtest stop-loss exits at the stop, not the bar close by @zorionarrillaga in https://github.com/hummingbot/hummingbot/pull/8507\r\n* CI conda PATH fix by @cardosofede in https://github.com/hummingbot/hummingbot/pull/8536\r\n* feat / bitget unified connector by @isreallee82 in https://github.com/hummingbot/hummingbot/pull/8343\r\n* sync / development to staging v2.18 by @rapcmia in https://github.com/hummingbot/hummingbot/pull/8539\r\n* okx-perp-ws-ping-8296 by @cardosofede in https://github.com/hummingbot/hummingbot/pull/8550\r\n* remote-api-pickle-rce-8085 by @cardosofede in https://github.com/hummingbot/hummingbot/pull/8561\r\n* kraken-fill-timestamp-8199 by @cardosofede in https://github.com/hummingbot/hummingbot/pull/8559\r\n* dydx-oneway-log-flood-8482 by @cardosofede in https://github.com/hummingbot/hummingbot/pull/8560\r\n* dca-sim-index-8523 by @cardosofede in https://github.com/hummingbot/hummingbot/pull/8558\r\n* foxbit-eval-rce-8083 by @cardosofede in https://github.com/hummingbot/hummingbot/pull/8562\r\n* sync / development to staging v2.18.0 - update 20261113 by @rapcmia in https://github.com/hummingbot/hummingbot/pull/8563\r\n* Sync / Staging to master v2.18.0 by @rapcmia in https://github.com/hummingbot/hummingbot/pull/8574\r\n\r\n## New Contributors\r\n* @mnaamani made their first contribution in https://github.com/hummingbot/hummingbot/pull/8461\r\n* @Janche made their first contribution in https://github.com/hummingbot/hummingbot/pull/8444\r\n* @andrewgbell made their first contribution in https://github.com/hummingbot/hummingbot/pull/8435\r\n* @naufalfx805-source made their first contribution in https://github.com/hummingbot/hummingbot/pull/8477\r\n* @zorionarrillaga made their first contribution in https://github.com/hummingbot/hummingbot/pull/8507\r\n\r\n**Full Changelog**: https://github.com/hummingbot/hummingbot/compare/v2.17.0...v2.18.0",
+  "mentions_count": 9
 }
