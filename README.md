@@ -37,22 +37,22 @@ Total: **340,160** lines of code across **1823** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 21,377 · **Forks**: 5,172 · **Open issues**: 3,512 · **Contributors**: 239
+- **Stars**: 21,391 · **Forks**: 5,174 · **Open issues**: 3,513 · **Contributors**: 239
 
 ## Totals (cumulative)
 
-- **Releases**: 112 · **Merged PRs**: 3615 · **Open PRs**: 148 · **Closed issues**: 3441 · **Open issues**: 71 · **Commits**: 28234
+- **Releases**: 112 · **Merged PRs**: 3617 · **Open PRs**: 147 · **Closed issues**: 3442 · **Open issues**: 71 · **Commits**: 28234
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 10 | 50 | 4 | 11 | 67 |
-| last60d | 2026-09-25 | 1 | 13 | 65 | 6 | 14 | 107 |
-| 90d | 2026-08-26 | 2 | 24 | 87 | 11 | 16 | 190 |
-| last180d | 2026-05-28 | 4 | 76 | 120 | 36 | 27 | 958 |
-| 360d | 2025-11-29 | 8 | 166 | 144 | 100 | 39 | 2210 |
-| last720d | 2024-12-04 | 18 | 350 | 148 | 300 | 69 | 4020 |
+| 30d | 2026-10-26 | 1 | 12 | 48 | 4 | 12 | 67 |
+| last60d | 2026-09-26 | 1 | 15 | 62 | 6 | 15 | 107 |
+| 90d | 2026-08-27 | 2 | 26 | 85 | 11 | 17 | 190 |
+| last180d | 2026-05-29 | 4 | 77 | 119 | 35 | 27 | 958 |
+| 360d | 2025-11-30 | 8 | 168 | 143 | 101 | 39 | 2210 |
+| last720d | 2024-12-05 | 18 | 352 | 147 | 301 | 68 | 4015 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for hummingbot lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:17:23Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:54:41Z._
